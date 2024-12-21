@@ -4,12 +4,13 @@
     <img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="120" height="120">
   </a>
 </p>
+<hr>
 <p align="center">
   <a href="https://connectsoumyaroy.github.io">
     <strong>Click to view my portfolio</strong>
   </a>
 </p>
-
+<hr>
 ![Portfolio Image](https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true)
 
 :star: Star me on GitHub — it helps!
