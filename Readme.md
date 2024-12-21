@@ -1,12 +1,11 @@
-<p align="center"> 
-
-## Personal Portfolio 🔥
-
+<p align="left"> 
+<img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="120" height="120">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://connectsoumyaroy.github.io">
-    <img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="120" height="120">
+    <img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true">
   </a>
 </p>
 <hr>
