@@ -1254,3 +1254,8 @@ section .container {
     transform: translateX(-50%);
   }
 }
+.social-links a:hover i {
+  color: #007bff; /* Change the icon color to blue */
+  transform: scale(1.2); /* Slightly enlarge the icon */
+  transition: all 0.3s ease; /* Smooth transition */
+}
