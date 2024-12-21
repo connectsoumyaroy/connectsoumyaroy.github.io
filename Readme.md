@@ -1,5 +1,5 @@
 <p align="left"> 
-<img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="120" height="120">
+<img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="60" height="60">
   </a>
 </p>
 
