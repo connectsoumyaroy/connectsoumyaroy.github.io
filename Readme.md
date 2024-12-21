@@ -10,8 +10,6 @@
   </a>
 </p>
 
-[Website](https://connectsoumyaroy.github.io)
-
 ![Portfolio Image](https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true)
 
 :star: Star me on GitHub — it helps!
