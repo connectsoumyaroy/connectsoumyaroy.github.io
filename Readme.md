@@ -1,6 +1,5 @@
 # Personal Portfolio 🔥
-> https://connectsoumyaroy.github.io/
-
+> [Website :](https://connectsoumyaroy.github.io)
 :star: Star me on GitHub — it helps!
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://connectsoumyaroy.github.io/)
