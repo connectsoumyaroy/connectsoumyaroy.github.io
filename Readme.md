@@ -4,7 +4,7 @@ https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website
 :star: Star me on GitHub — it helps!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Shaking Hands GIF">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Central GIF" width="600">
 </p>
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://connectsoumyaroy.github.io/)
