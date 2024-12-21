@@ -19,8 +19,9 @@
 
 ![Portfolio Image](https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true)
 
+<p align="center">
 :star: Star me on GitHub — it helps!
-
+</p>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Central GIF" width="600">
 </p>
