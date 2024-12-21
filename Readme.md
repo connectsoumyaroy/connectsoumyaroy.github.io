@@ -1,4 +1,10 @@
 # Personal Portfolio 🔥
+<p align="center">
+  <a href="https://connectsoumyaroy.github.io">
+    <img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Website Logo" width="120" height="120">
+  </a>
+</p>
+
 [Website](https://connectsoumyaroy.github.io)
 
 ![Portfolio Image](https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true)
