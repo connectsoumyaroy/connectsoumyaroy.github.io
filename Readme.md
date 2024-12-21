@@ -1,42 +1,55 @@
 # Personal Portfolio 🔥
+
 <p align="center">
   <a href="https://connectsoumyaroy.github.io">
     <img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="120" height="120">
   </a>
 </p>
+
 <p align="center">
   <a href="https://connectsoumyaroy.github.io">
     <strong>Click to view my portfolio</strong>
   </a>
 </p>
 
-![Portfolio Image](https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true)
+<p align="center">
+  ![Portfolio Image](https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/portfolio.jpg?raw=true)
+</p>
 
-:star: Star me on GitHub — it helps!
+<p align="center">
+  :star: Star me on GitHub — it helps!
+</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Central GIF" width="600">
 </p>
 
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://connectsoumyaroy.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/connectsoumyaroy/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+<p align="center">
+  [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://connectsoumyaroy.github.io/)
+  [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/connectsoumyaroy/)
+  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+</p>
 
 ### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
 
+#### Home Page
+<p align="center">
+  <img src="website_images/HomePage.gif" width="900">
+</p>
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
-
+<p align="center">
+  <img src="website_images/AboutPage.png" width="900">
+</p>
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+<p align="center">
+  <img src="website_images/ProjectPage.png" width="900">
+</p>
 
-
-:star: Star me on GitHub — it helps!
+<p align="center">
+  :star: Star me on GitHub — it helps!
+</p>
 
 ## Features 📋
 ⚡️ Fully Responsive\
