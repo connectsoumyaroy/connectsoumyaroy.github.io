@@ -2,6 +2,8 @@
 
 ## Personal Portfolio 🔥
 
+</p>
+
 <p align="center">
   <a href="https://connectsoumyaroy.github.io">
     <img src="https://github.com/connectsoumyaroy/connectsoumyaroy.github.io/blob/main/website_images/logo.png?raw=true" alt="Logo" width="120" height="120">
