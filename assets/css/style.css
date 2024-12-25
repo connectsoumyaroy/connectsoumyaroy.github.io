@@ -1983,3 +1983,23 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+.credits {
+  position: fixed;
+  bottom: 10px;  /* Adjust bottom margin */
+  right: 10px;   /* Align to the bottom right for desktop */
+  text-align: right; /* Align text to the right for desktop */
+  background: transparent; /* Remove any background */
+  padding: 0;  /* Remove any padding */
+  margin: 0;   /* Ensure there's no margin causing issues */
+}
+
+@media (max-width: 768px) {
+  .credits {
+    left: 50%; /* Position it in the center horizontally */
+    transform: translateX(-50%); /* Adjust by 50% of its width to truly center */
+    text-align: center; /* Center the text for mobile */
+    right: auto; /* Remove right alignment on mobile */
+    background: transparent; /* Ensure background is transparent */
+    padding: 0;  /* Remove padding */
+  }
+}
