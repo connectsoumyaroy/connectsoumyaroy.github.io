@@ -147,5 +147,13 @@
   $(document).ready(function() {
     $('.venobox').venobox();
   });
+  
+  $(document).on('click', '.mobile-nav a', function(e) {
+    console.log('Mobile menu link clicked:', $(this).attr('href'));
+    $('body').removeClass('mobile-nav-active');
+    $('.mobile-nav-toggle i').removeClass('icofont-close').addClass('icofont-navigation-menu');
+    $('.mobile-nav-overly').fadeOut();
+});
+
 
 })(jQuery);

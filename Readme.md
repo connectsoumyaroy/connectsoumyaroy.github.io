@@ -9,6 +9,10 @@
   <a href="https://connectsoumyaroy.github.io">
     <strong>Click to view my portfolio</strong>
   </a>
+  <p align="center">
+  <a href="https://connectsoumyaroy.github.io/">
+    <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="100%">
+  </a> 
 </p>
 <hr>
 <p align="center">
