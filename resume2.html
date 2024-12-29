@@ -78,6 +78,35 @@
             background-color: rgba(0, 86, 179, 0.9);
         }
 
+        /* Maximize Button with reduced opacity */
+        .maximize-btn {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(128, 128, 128, 0.4); /* Reduced opacity (0.4) */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 6px;
+            font-size: 18px;
+            cursor: pointer;
+            z-index: 20;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .maximize-btn:hover {
+            background-color: rgba(105, 105, 105, 0.6); /* Darker grey with more opacity on hover */
+        }
+
+        .maximize-btn:focus {
+            outline: none;
+        }
+
         .swiper {
             width: 100%;
             height: 100%;
@@ -102,17 +131,27 @@
                 font-size: 12px;
                 padding: 6px 12px;
             }
+
+            .maximize-btn {
+                top: auto;
+                bottom: 10px;
+                left: 50%;
+                transform: translateX(-50%);
+            }
         }
     </style>
 </head>
 
 <body>
-    <div class="iframe-container">
+    <div class="iframe-container" id="resumeContainer">
         <!-- Floating Buttons -->
         <div class="floating-buttons">
             <button onclick="window.open('https://drive.google.com/file/d/1wRBYMP8uQtlRoV4FUJP86b9F6zJI6i5v/view', '_blank')">Open with PDF</button>
             <button onclick="window.open('https://docs.google.com/document/d/1GRhfbEjJUQPTtiAEmsAJi0I1nRZGdZzfgUvnmt6V-go/edit', '_blank')">Open with DOC</button>
         </div>
+
+        <!-- Maximize Button -->
+        <button class="maximize-btn" onclick="toggleFullscreen()">&#x26F6;</button>
 
         <!-- Swiper Slider -->
         <div class="swiper">
@@ -158,6 +197,19 @@
                 clickable: true,
             }
         });
+
+        function toggleFullscreen() {
+            const elem = document.getElementById('resumeContainer');
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen();
+            } else if (elem.mozRequestFullScreen) { // Firefox
+                elem.mozRequestFullScreen();
+            } else if (elem.webkitRequestFullscreen) { // Chrome, Safari and Opera
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) { // IE/Edge
+                elem.msRequestFullscreen();
+            }
+        }
     </script>
 </body>
 
