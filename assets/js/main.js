@@ -153,7 +153,7 @@
     $('body').removeClass('mobile-nav-active');
     $('.mobile-nav-toggle i').removeClass('icofont-close').addClass('icofont-navigation-menu');
     $('.mobile-nav-overly').fadeOut();
-});
+  });
 
 
 })(jQuery);
