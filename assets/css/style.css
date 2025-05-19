@@ -2079,3 +2079,15 @@ a:hover {
 .carousel-control-prev-icon, .carousel-control-next-icon {
   background-color: #12d640;
 }
+.info-box p a {
+  color: inherit;             /* Inherit white or theme color */
+  text-decoration: none;      /* No underline */
+  cursor: pointer;            /* Hand cursor on hover */
+  font-size: 14px;            /* Smaller text */
+  transition: all 0.2s ease;
+}
+
+.info-box p a:hover {
+  color: #007bff;             /* Optional: theme hover color */
+  text-decoration: underline; /* Underline only on hover */
+}
